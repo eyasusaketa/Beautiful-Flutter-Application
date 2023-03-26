@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664236718950",
+    "project_id": "boreal-depth-366406",
+    "storage_bucket": "boreal-depth-366406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664236718950:android:586375e73a3bdf12d266a7",
+        "android_client_info": {
+          "package_name": "com.example.safely4her"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664236718950-ihmf6vo2tlkm0jta6d9pthbc6duoel6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_sNEODyBS702Gin4mcH3odXWCG_-H90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664236718950-ihmf6vo2tlkm0jta6d9pthbc6duoel6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
